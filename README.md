@@ -1,1 +1,11 @@
-# Caramount_prediction_project
+# Car_amount_prediction_project
+
+1.IMPORT PYTHON LIBRARIES
+
+2.LOAD DATASET
+
+3.TRAINING DATASET AND DATA CLEANING
+
+4.TRAINING THE MODEL
+
+5.EVALUATING THE MODEL
