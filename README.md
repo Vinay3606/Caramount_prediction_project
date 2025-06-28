@@ -3,9 +3,13 @@
 
 
 📋 Project Overview
+
+
 This project predicts the car purchase amount for potential customers using a neural network regression model. The workflow demonstrates industry-standard practices in data preprocessing, feature engineering, model building, and evaluation, making it a robust template for real-world regression tasks.
 
 🛠️ Steps & Theory
+
+
 Data Import & Validation
 Load the dataset and check for missing values to ensure data quality.
 
@@ -40,6 +44,8 @@ Prediction
 Predict car purchase amounts for new customer profiles with the trained model.
 
 ✨ Key Highlights
+
+
 End-to-End ML Pipeline: From raw data to predictions, following best industry practices.
 
 Feature Engineering: Enhanced model accuracy with derived features.
@@ -51,4 +57,6 @@ Neural Network Regression: Applied deep learning for accurate, scalable predicti
 Visualization & Evaluation: Transparent model performance monitoring.
 
 🏁 Conclusion
+
+
 This project demonstrates a practical, industry-ready approach to regression problems using deep learning. By combining robust preprocessing, thoughtful feature engineering, and modern neural network techniques, the solution delivers reliable predictions for car purchase amounts—showcasing a strong foundation for similar real-world applications.
